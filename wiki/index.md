@@ -51,6 +51,8 @@ Pages that summarize or respond to material in `raw/` (immutable sources).
 | Page | Raw source | Summary |
 |------|------------|---------|
 | [[wiki/domains/prediction-markets/summary-aleiah-polymarket-quant-playbook-2026]] | `raw/inbox/...Polymarket...X.htm` | X article: six “quant” formulas (LMSR, Kelly, EV, KL, Bregman, Bayes) + bot outline; claims flagged as author-side |
+| [[wiki/domains/prediction-markets/summary-movez-game-theory-polymarket-72m-trades]] | `raw/inbox/...Movez...72 million trades...X.htm` | X article: five themes (EV, tail mispricing, Kelly, Bayes, Nash/maker–taker); Becker/Kalshi stats; Polymarket parallel as author claim |
+| [[wiki/domains/prediction-markets/summary-bl888m-polymarket-wallet-narrative]] | `raw/inbox/...bl888m...51K...X.htm` | X article: Claude wallet scan, 87/13 split, three copy-trade patterns; Kreo promo; PnL unverified; title vs body \$ figure mismatch noted |
 
 ## Filed answers
 

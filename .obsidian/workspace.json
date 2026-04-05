@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/domains/prediction-markets/overview.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "overview"
+              "title": "README"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 461.5
   },
   "right": {
     "id": "9337cc4ad33b9ff2",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/domains/prediction-markets/overview.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for overview"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/domains/prediction-markets/overview.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from overview"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/domains/prediction-markets/overview.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of overview"
+              "title": "Outline of README"
             }
           }
         ],
@@ -184,25 +184,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "211439370e15194c",
+  "active": "78ea0589f07e3dc9",
   "lastOpenFiles": [
-    "wiki/shared/entities/polymarket.md",
-    "wiki/domains/prediction-markets/summary-aleiah-polymarket-quant-playbook-2026.md",
-    "wiki/domains/prediction-markets/overview.md",
-    "wiki/overview.md",
-    "wiki/domains/prediction-markets/sources-index.md",
-    "wiki/domains/prediction-markets",
-    "_tmp_out.txt",
-    "_tmp_extract_x.py",
+    "wiki/domains/prediction-markets/summary-bl888m-polymarket-wallet-narrative.md",
+    "wiki/domains/prediction-markets/summary-movez-game-theory-polymarket-72m-trades.md",
+    "_extract_out.txt",
+    "_tmp_extract.py",
+    "raw/inbox/bl888m on X_ _How I Made $51K on Polymarket Without Knowing How to Trade_ _ X.htm",
+    "raw/inbox/bl888m on X_ _How I Made $51K on Polymarket Without Knowing How to Trade_ _ X_files/vendor.5c0accda.js",
+    "raw/inbox/bl888m on X_ _How I Made $51K on Polymarket Without Knowing How to Trade_ _ X_files/1nMnbJO9_bigger.jpg",
+    "raw/inbox/bl888m on X_ _How I Made $51K on Polymarket Without Knowing How to Trade_ _ X_files/main.a1191e0a.js",
+    "raw/inbox/bl888m on X_ _How I Made $51K on Polymarket Without Knowing How to Trade_ _ X_files/1nMnbJO9_normal.jpg",
+    "raw/inbox/bl888m on X_ _How I Made $51K on Polymarket Without Knowing How to Trade_ _ X_files/en.f717a2da.js",
+    "raw/inbox/bl888m on X_ _How I Made $51K on Polymarket Without Knowing How to Trade_ _ X_files/HE_gCQBaYAAR7_0.jpg",
+    "raw/inbox/bl888m on X_ _How I Made $51K on Polymarket Without Knowing How to Trade_ _ X_files/HE_hGuYa8AAqX8W.jpg",
+    "raw/inbox/bl888m on X_ _How I Made $51K on Polymarket Without Knowing How to Trade_ _ X_files/HE_gOKKasAAUemn.jpg",
+    "raw/inbox/bl888m on X_ _How I Made $51K on Polymarket Without Knowing How to Trade_ _ X_files/zERkr8TK_normal.jpg",
+    "raw/inbox/bl888m on X_ _How I Made $51K on Polymarket Without Knowing How to Trade_ _ X_files/1fIc3023_bigger.jpg",
+    "raw/inbox/bl888m on X_ _How I Made $51K on Polymarket Without Knowing How to Trade_ _ X_files",
     "AGENTS.md",
     "CLAUDE.md",
-    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X_files/HFJIZ0jaMAAOugw.png",
-    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X_files/HFJIf_7aEAEXSGT.png",
-    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X_files/HFJHhR4bkAAoR6K.jpg",
-    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X_files/HFJH9EkWwAA9kPs.png",
-    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X_files/HFJH0aJasAAnZPh.png",
-    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X_files/_qt7jZgw_normal.jpg",
-    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X.htm",
-    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X_files"
+    "_movez_extract.txt",
+    "_tmp_movez.py",
+    "raw/inbox/Movez on X_ _Game Theory on Polymarket_ The 5 Formulas tested on 72 million trades _ _ X.htm",
+    "raw/inbox/Movez on X_ _Game Theory on Polymarket_ The 5 Formulas tested on 72 million trades _ _ X_files/HEXEmaAbUAAu51g.png",
+    "raw/inbox/Movez on X_ _Game Theory on Polymarket_ The 5 Formulas tested on 72 million trades _ _ X_files/HEZ0CE6XgAAf00J.jpg",
+    "raw/inbox/Movez on X_ _Game Theory on Polymarket_ The 5 Formulas tested on 72 million trades _ _ X_files/HEW5_MYWAAAAoCR.png",
+    "wiki/domains/prediction-markets/overview.md",
+    "wiki/shared/entities/polymarket.md",
+    "wiki/domains/prediction-markets/summary-aleiah-polymarket-quant-playbook-2026.md",
+    "wiki/overview.md",
+    "wiki/domains/prediction-markets/sources-index.md"
   ]
 }
