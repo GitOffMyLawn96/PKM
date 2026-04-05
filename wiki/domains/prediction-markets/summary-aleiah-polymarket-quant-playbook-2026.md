@@ -47,6 +47,7 @@ source_count: 1
 
 ## See also
 
+- [[wiki/domains/llm-monetization/summary-aleiah-seventeen-claude-skills-monetization]] — same author; Claude skills / template monetization (different article).
 - [[wiki/domains/prediction-markets/summary-bl888m-polymarket-wallet-narrative]] — wallet-scan / copy-trade story (promotional; unverified).
 - [[wiki/domains/prediction-markets/summary-movez-game-theory-polymarket-72m-trades]] — empirical / game-theory framing (Kalshi-scale stats, maker–taker, tail mispricing).
 - [[wiki/shared/entities/polymarket]]

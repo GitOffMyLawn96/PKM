@@ -29,3 +29,19 @@ Ingested saved X Article from `raw/inbox/`: *Game Theory on Polymarket: The 5 Fo
 ## [2026-04-05] ingest | bl888m X article — Polymarket wallet narrative
 
 Ingested saved X Article from `raw/inbox/`: *How I Made $51K on Polymarket Without Knowing How to Trade* ([@bl888m](https://x.com/bl888m/status/2040097622459838967)). New summary [[wiki/domains/prediction-markets/summary-bl888m-polymarket-wallet-narrative]] (advertorial / unverified PnL caveats); updated [[wiki/domains/prediction-markets/sources-index]], cross-links from [[wiki/domains/prediction-markets/summary-movez-game-theory-polymarket-72m-trades]] and [[wiki/domains/prediction-markets/summary-aleiah-polymarket-quant-playbook-2026]], [[wiki/index]].
+
+## [2026-04-05] ingest | inbox batch — five new X articles (no re-index of prior sources)
+
+**Skipped (already in [[wiki/domains/prediction-markets/sources-index]]):** Movez 72M trades, bl888m 51K narrative, Aleiah Polymarket quant playbook (those `.htm` names unchanged).
+
+**New domains:** [[wiki/domains/llm-dev-tooling/overview|llm-dev-tooling]], [[wiki/domains/llm-monetization/overview|llm-monetization]], [[wiki/domains/org-ai-futures/overview|org-ai-futures]].
+
+**New summaries:** [[wiki/domains/llm-dev-tooling/summary-kevin-gu-autoagent]] (Kevin Gu / AutoAgent), [[wiki/domains/llm-dev-tooling/summary-noisy-claude-code-plugins-five]] (Noisy plugins), [[wiki/domains/org-ai-futures/summary-jack-hierarchy-to-intelligence-block]] (jack / Block hierarchy essay), [[wiki/domains/prediction-markets/summary-zostaff-polymarket-bot-rbi-claude-code]] (zostaff RBI bot guide), [[wiki/domains/llm-monetization/summary-aleiah-seventeen-claude-skills-monetization]] (Aleiah 17 skills — distinct from Polymarket playbook). Updated [[wiki/index]], [[wiki/overview]], domain `sources-index` files.
+
+## [2026-04-05] ingest | inbox batch — seven new sources only (deduped)
+
+Compared `raw/inbox/*.htm` to existing `sources-index` / [[wiki/index]] rows; **did not** add second rows for already-indexed: Movez, bl888m, zostaff, Kevin Gu, Noisy plugins, jack, Aleiah 17 skills.
+
+**New domain:** [[wiki/domains/media-automation/overview|media-automation]].
+
+**New summaries:** [[wiki/domains/media-automation/summary-fujiwarachoki-moneyprinter]], [[wiki/domains/llm-dev-tooling/summary-karpathy-autoresearch]], [[wiki/domains/org-ai-futures/summary-mirofish-god-view-engine]], [[wiki/domains/prediction-markets/summary-lunar-polymarket-math-blueprint]], [[wiki/domains/prediction-markets/summary-noisy-random-forest-polymarket-80-win-rate]], [[wiki/domains/llm-monetization/summary-ernesto-openclaw-eddie-ads]], [[wiki/domains/llm-monetization/summary-zephyr-skills-500-hour-2027]]. Fixed broken wikilink in [[wiki/domains/org-ai-futures/sources-index]] (jack page slug). Cross-link: Noisy plugins → Noisy RF summary.

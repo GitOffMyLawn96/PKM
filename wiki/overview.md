@@ -14,6 +14,10 @@ This wiki is a **persistent, compounding** layer between you and **raw sources**
 Unrelated topic areas live in parallel under [[wiki/index#Domains|domains]] so namespaces stay clear:
 
 - [[wiki/domains/crypto-hft/overview|Crypto HFT]] — trading, markets, infrastructure (to be filled from sources).
+- [[wiki/domains/media-automation/overview|Media automation]] — programmatic shorts/video pipelines (e.g. MoviePy-based OSS).
+- [[wiki/domains/llm-dev-tooling/overview|LLM dev tooling]] — coding agents, plugins, harness automation (e.g. Claude Code ecosystem).
+- [[wiki/domains/llm-monetization/overview|LLM monetization]] — indie skills, templates, digital products built around LLM workflows.
+- [[wiki/domains/org-ai-futures/overview|Org AI futures]] — how companies might replace hierarchical coordination with models.
 - [[wiki/domains/prediction-markets/overview|Prediction markets]] — event contracts, AMM-style pricing, venues (e.g. [[wiki/shared/entities/polymarket|Polymarket]]).
 - [[wiki/domains/space-systems/overview|Space systems]] — orbital mechanics, vehicles, regulations (to be filled from sources).
 
