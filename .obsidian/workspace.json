@@ -11,10 +11,14 @@
             "id": "211439370e15194c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/domains/llm-dev-tooling/summary-block-goose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "summary-block-goose"
             }
           }
         ]
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/domains/llm-dev-tooling/summary-block-goose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for summary-block-goose"
             }
           },
           {
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wiki/domains/llm-dev-tooling/summary-block-goose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from summary-block-goose"
             }
           },
           {
@@ -150,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "wiki/domains/llm-dev-tooling/summary-block-goose.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of summary-block-goose"
             }
           }
         ],
@@ -177,9 +185,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "78ea0589f07e3dc9",
+  "active": "ddb7fd7f4c574825",
   "lastOpenFiles": [
-    "_extract",
+    "wiki/domains/llm-dev-tooling/summary-block-goose.md",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM.htm",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/32769-329cba91f224b6ee.js",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/34646-edd5528648c197b1.js",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/53839.52201ac8c146881f.module.css",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/42890-dc8a427d0e01e2ea.js",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/code-2d31826944fd3be8.css",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/17363-9d3b6dc38025c8e2.js",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/46740-6606b1026a237412.js",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/18222-498ac30c45b2263a.js",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/63991-125a5c660965e63e.js",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f.svg",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/494478532-ddc71240-3928-41b5-8210-626dfb28af7a.jpg",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/14976.png",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/75694352.jpg",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/55366651.jpg",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/126204004.png",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/68747470733a2f2f696d672e736869656c64732e696f2f646973636f7264.svg",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/194850889.jpg",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/73617011.png",
+    "raw/inbox/block_goose_ an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_files/15972783.png",
     "wiki/domains/org-ai-futures/summary-mirofish-god-view-engine.md",
     "wiki/domains/llm-monetization/summary-zephyr-skills-500-hour-2027.md",
     "wiki/domains/llm-monetization/summary-ernesto-openclaw-eddie-ads.md",
@@ -192,26 +220,6 @@
     "wiki/domains/media-automation/summary-fujiwarachoki-moneyprinter.md",
     "wiki/domains/media-automation/sources-index.md",
     "wiki/domains/media-automation/overview.md",
-    "wiki/domains/media-automation",
-    "_batch_extract_out.txt",
-    "_batch_extract.py",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy.htm",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/PostBridgeBanner.png",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/behaviors-9ddaeb4e06adcb60.js",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/46740-6606b1026a237412.js",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/85924-e131bec5f99667e1.js",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/7872.078d883db2e6ec91.module.css",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/primer-primitives-10bf9dd67e3d70bd.css",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/1097-b805267515cb2087.js",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/16167399.jpg",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/20015201.png",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/78088687_004.jpg",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/78345565.jpg",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/966302.png",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/81847.png",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/129551402.png",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/900754.jpg",
-    "raw/inbox/FujiwaraChoki_MoneyPrinter_ Automate Creation of YouTube Shorts using MoviePy_files/78088687_003.jpg",
     "wiki/domains/prediction-markets/sources-index.md",
     "wiki/domains/org-ai-futures/summary-jack-hierarchy-to-intelligence-block.md",
     "wiki/domains/prediction-markets/summary-zostaff-polymarket-bot-rbi-claude-code.md",

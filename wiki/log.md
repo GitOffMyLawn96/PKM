@@ -38,6 +38,14 @@ Ingested saved X Article from `raw/inbox/`: *How I Made $51K on Polymarket Witho
 
 **New summaries:** [[wiki/domains/llm-dev-tooling/summary-kevin-gu-autoagent]] (Kevin Gu / AutoAgent), [[wiki/domains/llm-dev-tooling/summary-noisy-claude-code-plugins-five]] (Noisy plugins), [[wiki/domains/org-ai-futures/summary-jack-hierarchy-to-intelligence-block]] (jack / Block hierarchy essay), [[wiki/domains/prediction-markets/summary-zostaff-polymarket-bot-rbi-claude-code]] (zostaff RBI bot guide), [[wiki/domains/llm-monetization/summary-aleiah-seventeen-claude-skills-monetization]] (Aleiah 17 skills — distinct from Polymarket playbook). Updated [[wiki/index]], [[wiki/overview]], domain `sources-index` files.
 
+## [2026-04-05] ingest | Hanako X article — six Claude Polymarket strategies
+
+New inbox save: `(1) Hanako on X_ ...Prediction Markets Overlook...htm`. Summary [[wiki/domains/prediction-markets/summary-hanako-claude-six-polymarket-strategies]]; updated [[wiki/domains/prediction-markets/sources-index]], [[wiki/index]] (inbox note: goose + Hanako present).
+
+## [2026-04-05] ingest | block/goose GitHub save + inbox cleared
+
+Human removed prior `raw/inbox/` HTML; only `block_goose_...htm` remains. New summary [[wiki/domains/llm-dev-tooling/summary-block-goose]]. Updated all domain `sources-index` tables and [[wiki/index]] source table to mark **removed from inbox** vs **present** snapshot.
+
 ## [2026-04-05] ingest | inbox batch — seven new sources only (deduped)
 
 Compared `raw/inbox/*.htm` to existing `sources-index` / [[wiki/index]] rows; **did not** add second rows for already-indexed: Movez, bl888m, zostaff, Kevin Gu, Noisy plugins, jack, Aleiah 17 skills.

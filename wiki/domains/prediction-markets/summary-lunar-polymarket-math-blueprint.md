@@ -22,6 +22,7 @@ source_count: 1
 
 ## See also
 
+- [[wiki/domains/prediction-markets/summary-hanako-claude-six-polymarket-strategies]] — Claude + six systematic strategies (base rate, joints, liquidity, etc.); overlapping themes.
 - [[wiki/domains/prediction-markets/summary-aleiah-polymarket-quant-playbook-2026]] — six-formula quant playbook.
 - [[wiki/domains/prediction-markets/summary-movez-game-theory-polymarket-72m-trades]] — maker/taker + tail mispricing (Kalshi-cited).
 - [[wiki/domains/prediction-markets/overview]]

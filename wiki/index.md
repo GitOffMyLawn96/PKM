@@ -52,23 +52,27 @@ People, orgs, products, missions — anything referenced across domains.
 
 Pages that summarize or respond to material in `raw/` (immutable sources).
 
+**Inbox:** Working `raw/inbox/` currently holds **block/goose** (GitHub) and **Hanako** (X article); all other listed snapshots were removed earlier — summaries + canonical URLs still stand.
+
 | Page | Raw source | Summary |
 |------|------------|---------|
-| [[wiki/domains/prediction-markets/summary-aleiah-polymarket-quant-playbook-2026]] | `raw/inbox/...Polymarket...X.htm` | X article: six “quant” formulas (LMSR, Kelly, EV, KL, Bregman, Bayes) + bot outline; claims flagged as author-side |
-| [[wiki/domains/prediction-markets/summary-movez-game-theory-polymarket-72m-trades]] | `raw/inbox/...Movez...72 million trades...X.htm` | X article: five themes (EV, tail mispricing, Kelly, Bayes, Nash/maker–taker); Becker/Kalshi stats; Polymarket parallel as author claim |
-| [[wiki/domains/prediction-markets/summary-bl888m-polymarket-wallet-narrative]] | `raw/inbox/...bl888m...51K...X.htm` | X article: Claude wallet scan, 87/13 split, three copy-trade patterns; Kreo promo; PnL unverified; title vs body \$ figure mismatch noted |
-| [[wiki/domains/prediction-markets/summary-zostaff-polymarket-bot-rbi-claude-code]] | `raw/inbox/...zostaff...Trading Bot...X.htm` | X article: RBI pipeline, Polymarket + py-clob-client bot scaffold via Claude Code; emotional-trading narrative; stats unverified |
-| [[wiki/domains/llm-dev-tooling/summary-kevin-gu-autoagent]] | `raw/inbox/...Kevin Gu...AutoAgent...X.htm` | X post: OSS meta-agent optimizing harnesses; SpreadsheetBench/TerminalBench claims; github.com/kevinrgu/autoagent |
-| [[wiki/domains/llm-dev-tooling/summary-noisy-claude-code-plugins-five]] | `raw/inbox/...Noisy...Claude Code plugins...X.htm` | X article: five plugins (memory, Obsidian, voice, Superpowers, Compound Eng.); hype/CTA; Telegram funnel |
-| [[wiki/domains/org-ai-futures/summary-jack-hierarchy-to-intelligence-block]] | `raw/inbox/jack...Hierarchy to Intelligence...X.htm` | X longform: history of hierarchy → Block “company as intelligence”; world models + three roles |
-| [[wiki/domains/llm-monetization/summary-aleiah-seventeen-claude-skills-monetization]] | `raw/inbox/...Aleiah...17 Claude Skills...X.htm` | X article: 17 sellable skill templates + Notion/template monetization; separate from Aleiah Polymarket playbook |
-| [[wiki/domains/media-automation/summary-fujiwarachoki-moneyprinter]] | `raw/inbox/FujiwaraChoki_MoneyPrinter...htm` | GitHub save: MoneyPrinter — automate YouTube Shorts with MoviePy; Backend/Frontend/Docker tree |
-| [[wiki/domains/llm-dev-tooling/summary-karpathy-autoresearch]] | `raw/inbox/karpathy_autoresearch...htm` | GitHub save: karpathy/autoresearch — agents automating single-GPU nanochat training loop |
-| [[wiki/domains/org-ai-futures/summary-mirofish-god-view-engine]] | `raw/inbox/...MiroFish...God View...X.htm` | X article: MiroFish simulation, GraphRAG + OASIS + Zep; Chen/Shanda bet; AGPL OSS |
-| [[wiki/domains/prediction-markets/summary-lunar-polymarket-math-blueprint]] | `raw/inbox/Lunar...Polymarket...Math...X.htm` | X article: LMSR walkthrough, EV/impact, five biases, Kelly; Kreo/Telegram CTAs |
-| [[wiki/domains/prediction-markets/summary-noisy-random-forest-polymarket-80-win-rate]] | `raw/inbox/Noisy...80_ win rate...X.htm` | X article: Random Forest ensemble entry rules, Sharpe/MAE/MFE; not the Noisy plugins piece |
-| [[wiki/domains/llm-monetization/summary-ernesto-openclaw-eddie-ads]] | `raw/inbox/Ernesto Lopez...Openclaw...X.htm` | X article: Apify+Whisper+md voice; Arcads/Singular loop; Arcads sponsor link |
-| [[wiki/domains/llm-monetization/summary-zephyr-skills-500-hour-2027]] | `raw/inbox/Zephyr...500_Hour...X.htm` | X essay: seven non-coding AI-adjacent skills; Mastery Bundle CTA |
+| [[wiki/domains/llm-dev-tooling/summary-block-goose]] | `raw/inbox/block_goose_...any LLM.htm` (present) | GitHub save: block/goose — Rust workspace OSS agent (install/execute/edit/test; any LLM) |
+| [[wiki/domains/prediction-markets/summary-hanako-claude-six-polymarket-strategies]] | `raw/inbox/(1) Hanako on X_...Prediction Markets Overlook...htm` (present) | X article: six Claude-driven strategies (base rate, joints, liquidity, cross-venue, calibration, time decay); Telegram CTA; stats unverified |
+| [[wiki/domains/prediction-markets/summary-aleiah-polymarket-quant-playbook-2026]] | _inbox file removed_ | X article: six “quant” formulas (LMSR, Kelly, EV, KL, Bregman, Bayes) + bot outline; claims flagged as author-side |
+| [[wiki/domains/prediction-markets/summary-movez-game-theory-polymarket-72m-trades]] | _inbox file removed_ | X article: five themes (EV, tail mispricing, Kelly, Bayes, Nash/maker–taker); Becker/Kalshi stats; Polymarket parallel as author claim |
+| [[wiki/domains/prediction-markets/summary-bl888m-polymarket-wallet-narrative]] | _inbox file removed_ | X article: Claude wallet scan, 87/13 split, three copy-trade patterns; Kreo promo; PnL unverified; title vs body \$ figure mismatch noted |
+| [[wiki/domains/prediction-markets/summary-zostaff-polymarket-bot-rbi-claude-code]] | _inbox file removed_ | X article: RBI pipeline, Polymarket + py-clob-client bot scaffold via Claude Code; emotional-trading narrative; stats unverified |
+| [[wiki/domains/llm-dev-tooling/summary-kevin-gu-autoagent]] | _inbox file removed_ | X post: OSS meta-agent optimizing harnesses; SpreadsheetBench/TerminalBench claims; github.com/kevinrgu/autoagent |
+| [[wiki/domains/llm-dev-tooling/summary-noisy-claude-code-plugins-five]] | _inbox file removed_ | X article: five plugins (memory, Obsidian, voice, Superpowers, Compound Eng.); hype/CTA; Telegram funnel |
+| [[wiki/domains/org-ai-futures/summary-jack-hierarchy-to-intelligence-block]] | _inbox file removed_ | X longform: history of hierarchy → Block “company as intelligence”; world models + three roles |
+| [[wiki/domains/llm-monetization/summary-aleiah-seventeen-claude-skills-monetization]] | _inbox file removed_ | X article: 17 sellable skill templates + Notion/template monetization; separate from Aleiah Polymarket playbook |
+| [[wiki/domains/media-automation/summary-fujiwarachoki-moneyprinter]] | _inbox file removed_ | GitHub save: MoneyPrinter — automate YouTube Shorts with MoviePy; Backend/Frontend/Docker tree |
+| [[wiki/domains/llm-dev-tooling/summary-karpathy-autoresearch]] | _inbox file removed_ | GitHub save: karpathy/autoresearch — agents automating single-GPU nanochat training loop |
+| [[wiki/domains/org-ai-futures/summary-mirofish-god-view-engine]] | _inbox file removed_ | X article: MiroFish simulation, GraphRAG + OASIS + Zep; Chen/Shanda bet; AGPL OSS |
+| [[wiki/domains/prediction-markets/summary-lunar-polymarket-math-blueprint]] | _inbox file removed_ | X article: LMSR walkthrough, EV/impact, five biases, Kelly; Kreo/Telegram CTAs |
+| [[wiki/domains/prediction-markets/summary-noisy-random-forest-polymarket-80-win-rate]] | _inbox file removed_ | X article: Random Forest ensemble entry rules, Sharpe/MAE/MFE; not the Noisy plugins piece |
+| [[wiki/domains/llm-monetization/summary-ernesto-openclaw-eddie-ads]] | _inbox file removed_ | X article: Apify+Whisper+md voice; Arcads/Singular loop; Arcads sponsor link |
+| [[wiki/domains/llm-monetization/summary-zephyr-skills-500-hour-2027]] | _inbox file removed_ | X essay: seven non-coding AI-adjacent skills; Mastery Bundle CTA |
 
 ## Filed answers
 
