@@ -1,0 +1,11 @@
+{
+  "name": "pkm",
+  "private": true,
+  "description": "Personal knowledge management vault (Obsidian + agent-maintained wiki). See README.md and AGENTS.md.",
+  "scripts": {
+    "lint:md": "markdownlint-cli2 \"wiki/**/*.md\" \"AGENTS.md\" \"CLAUDE.md\""
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.17.2"
+  }
+}
