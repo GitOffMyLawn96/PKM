@@ -25,6 +25,7 @@ Topic branches live under `wiki/domains/<slug>/`. Each domain has an `overview` 
 | Page | Summary |
 |------|---------|
 | [[wiki/domains/crypto-hft/overview]] | High-frequency trading in crypto markets — scope TBD |
+| [[wiki/domains/prediction-markets/overview]] | Prediction markets, contract pricing, venues such as Polymarket |
 | [[wiki/domains/space-systems/overview]] | Spacecraft, drones, and operations — scope TBD |
 
 ## Shared concepts
@@ -41,7 +42,7 @@ People, orgs, products, missions — anything referenced across domains.
 
 | Page | Summary |
 |------|---------|
-| _(none yet)_ | Add entity pages under `wiki/shared/entities/` as they appear |
+| [[wiki/shared/entities/polymarket]] | Prediction-market venue / platform (event contracts) |
 
 ## Source summaries
 
@@ -49,7 +50,7 @@ Pages that summarize or respond to material in `raw/` (immutable sources).
 
 | Page | Raw source | Summary |
 |------|------------|---------|
-| _(none yet)_ | | |
+| [[wiki/domains/prediction-markets/summary-aleiah-polymarket-quant-playbook-2026]] | `raw/inbox/...Polymarket...X.htm` | X article: six “quant” formulas (LMSR, Kelly, EV, KL, Bregman, Bayes) + bot outline; claims flagged as author-side |
 
 ## Filed answers
 

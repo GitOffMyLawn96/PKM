@@ -11,10 +11,14 @@
             "id": "211439370e15194c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wiki/domains/prediction-markets/overview.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "overview"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/domains/prediction-markets/overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for overview"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wiki/domains/prediction-markets/overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from overview"
             }
           },
           {
@@ -150,15 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "wiki/domains/prediction-markets/overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,5 +185,24 @@
     }
   },
   "active": "211439370e15194c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "wiki/shared/entities/polymarket.md",
+    "wiki/domains/prediction-markets/summary-aleiah-polymarket-quant-playbook-2026.md",
+    "wiki/domains/prediction-markets/overview.md",
+    "wiki/overview.md",
+    "wiki/domains/prediction-markets/sources-index.md",
+    "wiki/domains/prediction-markets",
+    "_tmp_out.txt",
+    "_tmp_extract_x.py",
+    "AGENTS.md",
+    "CLAUDE.md",
+    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X_files/HFJIZ0jaMAAOugw.png",
+    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X_files/HFJIf_7aEAEXSGT.png",
+    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X_files/HFJHhR4bkAAoR6K.jpg",
+    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X_files/HFJH9EkWwAA9kPs.png",
+    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X_files/HFJH0aJasAAnZPh.png",
+    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X_files/_qt7jZgw_normal.jpg",
+    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X.htm",
+    "raw/inbox/Aleiah on X_ _The Quant Playbook for Polymarket_ 6 Formulas Hedge Funds Use to Extract Millions in 2026_ _ X_files"
+  ]
 }

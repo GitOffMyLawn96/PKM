@@ -14,6 +14,7 @@ This wiki is a **persistent, compounding** layer between you and **raw sources**
 Unrelated topic areas live in parallel under [[wiki/index#Domains|domains]] so namespaces stay clear:
 
 - [[wiki/domains/crypto-hft/overview|Crypto HFT]] — trading, markets, infrastructure (to be filled from sources).
+- [[wiki/domains/prediction-markets/overview|Prediction markets]] — event contracts, AMM-style pricing, venues (e.g. [[wiki/shared/entities/polymarket|Polymarket]]).
 - [[wiki/domains/space-systems/overview|Space systems]] — orbital mechanics, vehicles, regulations (to be filled from sources).
 
 Link **up** here when a domain touches the big picture; link **sideways** to pages under `wiki/shared/concepts/` and `wiki/shared/entities/` when ideas or named things span domains.
